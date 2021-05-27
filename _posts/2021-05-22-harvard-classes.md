@@ -49,13 +49,11 @@ I decided on the steps above following an advice from Ross (who received it from
 While you see lots of 6-class semester, not generally recommended. - Have extra time thanks to being home, - Have classes that 
 
 ## 6-course semesters
-You may have noticed the abundance of 6-course semesters in the list above. I would not recommend 6 course semesters. TODO.
+Overall, I do *not* recommend taking 6 courses in a semester. This is much more a "do as I say, not as I do" situation. Hear me out.
 
-Remote semester not a lot of stuff.
+In an in-person semester there are lots of activities you can do: going to talks, traveling with friends, running events, etc. These activities are both fun and educational. Taking 6 courses usually means that you will have little free time for any of these activities, and you will miss out on college experiences as a result. I learned this the hard way during Sophomore fall. No matter how amazing the 6 courses I chose are, I am exhausted at the end of the day. I remember vividly when I sit in the dining hall with my dinner, and feel like I have no energy to talk to any of my friends there. It was a lonely feeling.
 
-Leaves little room for clubs and social activities.
-
-If you do it, you *should* have very easy classes. SAT/UNSAT is good, for example.
+It makes sense to do this in a remote semester, where there are fewer activities. However, I do not recommend this during in-person times. If you do it, you should have some *very* easy classes. By that, I mean a class that you do not stress about once in the whole semester. For example, you can take a class you have self-studied for, or take a class SAT/UNSAT.
 
 # Fall 2018
 For each class, I wrote a *spiciness* rating next to it. This roughly measures how tough *I* found the class when I took it. A 1-chili class include some seminars and gems, while Math 55 was a 4-chili class.
