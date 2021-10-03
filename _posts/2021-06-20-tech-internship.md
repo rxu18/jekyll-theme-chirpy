@@ -8,8 +8,6 @@ math: true
 
 A friend who's going into sophomore year asked me about applying to tech internships. As someone who has gone through the process a few times, I thought it would be helpful to write down my thoughts. I will use "tech" to describe anything that attracts Math/CS students, which often includes finance as well.
 
-I will update this once I talk to some friends about their experiences.
-
 # Recruiting Timeline
 Since many companies are recruiting for strong talents, we get a "race to the bottom". Many companies want students to apply/interview early. Then, they can send out an offer with a tight deadline and lock the student in. As a result, big companies start recruiting in Aug-Oct and often end near Dec. Startups tend to be less certain about how many interns they can hire, and recruit more in the spring.
 
@@ -24,7 +22,7 @@ These can feel a little daunting. However, they can be more fun than stressful. 
 You may see people talking to recruiter for a long time and feel intimidated. You don't need to do that. The recruiter would have forgotten the conversation 10 minutes later.
 
 ## Coffee Chats
-If you want to talk to a recruiter, *coffe chats* are the way to go. These are longer (often 30 min) times where you get to learn about the company and talk about yourself. You get to build a stronger connection with the recruiters, which may lead to an interview. The coffee and snacks are also incredibly good.
+If you want to talk to a recruiter, *coffee chats* are the way to go. These are longer (often 30 min) times where you get to learn about the company and talk about yourself. You get to build a stronger connection with the recruiters, which may lead to an interview. The coffee and snacks are also incredibly good.
 
 ## LinkedIn
 LinkedIn is useful for displaying yourself and for finding people who worked at a certain company. To gauge what to put on your linkedin, the easiest way is to look at your peers and see what they have.
